@@ -10,5 +10,5 @@ import com.trunko.web.dao.project.ProjectModel;
 public class FormModel extends Model<FormModel>{
     public static FormModel dao = new FormModel();
 
-    
+
 }
